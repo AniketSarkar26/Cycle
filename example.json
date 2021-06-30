@@ -1,0 +1,5 @@
+[
+  {"id":1,"date":"10-2016","frame":"steel","handlebar":"steel","gear":4,"geargrip":220,"seating":1,"seatingbottle":200,"wheels":"steel","spokes":400,"rim":200,"tube":300,"tyre":"tubeless","chain":"onespeed"},
+  {"id":2,"date":"05-2012","frame":"Aluminium","handlebar":"steel","gear":2,"geargrip":150,"seating":2,"seatingbottle":250,"wheels":"steel","spokes":300,"rim":100,"tube":200,"tyre":"tube","chain":"twospeed"}
+
+]
